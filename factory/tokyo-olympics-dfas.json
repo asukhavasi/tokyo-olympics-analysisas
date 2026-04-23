@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympics-dfas",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9bd4107-ca8a-45de-858b-681816ad2c13",
+		"tenantId": "cc0c60ff-9d23-4f71-9ef1-9ef9f99877fe"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "HttpCoach",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/asukhavasi/tokyo-olympics-analysisas/raw/refs/heads/main/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
